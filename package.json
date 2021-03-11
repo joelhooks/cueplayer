@@ -1,0 +1,8 @@
+{
+  "name": "cueplayer",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:joelhooks/cueplayer.git",
+  "author": "Joel Hooks <joelhooks@gmail.com>",
+  "license": "MIT"
+}
